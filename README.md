@@ -10,103 +10,107 @@ Ready or not...lets begin...:musical_note:
 ## Install Your Local Environment
 1. Install [gulp.js](https://gulpjs.com/) globally onto your machine
   
-        npm install gulp -g
+```npm install gulp -g```
 
 
 2. Move into your project directory
 
-        cd into the project directory
+```cd into the project directory```
 
 
 
 3. Create a [package.json](https://nodesource.com/blog/an-absolute-beginners-guide-to-using-npm/) file
 
-        npm init
+```npm init```
         
 
 4. Install gulp.js into the project
 
-        npm install gulp --save-dev
+```npm install gulp --save-dev```
         
 
 ## Install Bootstrap v4 Dependencies
 
 Here are all of the bootstrap dependencies if you want to *install them all at once*:
 
-        npm install bootstrap jquery popper.js --save-dev
+```npm install bootstrap jquery popper.js --save-dev```
 
 Or you can *install them individually*:
 
 1. Install [bootstrap](https://www.npmjs.com/package/bootstrap)
 
-        npm install bootstrap --save-dev
+```npm install bootstrap --save-dev```
         
         
 2. Install [jQuery](https://www.npmjs.com/package/jquery)
 
-        npm install jquery --save-dev
+```npm install jquery --save-dev```
         
         
 3. Install [popper.js](https://github.com/FezVrasta/popper.js)
 
-        npm install popper.js --save-dev
+```npm install popper.js --save-dev```
         
         
 ## Install Your Gulpfile.js Dependecies
 
 Here are all of the ```gulp.js``` dependencies if you want to *install them all at once*:
 
-        npm install autoprefixer browser-sync cssnano del gulp-cache gulp-if gulp-imagemin gulp-postcss gulp-sass gulp-sourcemaps gulp-uglify gulp-useref --save--dev
+```npm install autoprefixer browser-sync cssnano del gulp-cache gulp-if gulp-imagemin gulp-postcss gulp-sass gulp-sourcemaps gulp-uglify gulp-useref run-sequence --save--dev```
 
 Or you can *install them individually*:
 
 1.  Install [autoprefixer](https://www.npmjs.com/package/autoprefixer)
 
-        npm install autoprefixer --save-dev
+```npm install autoprefixer --save-dev```
         
 2. Install [browser-sync](https://www.npmjs.com/package/browser-sync)
 
-        npm install browser-sync --save-dev
+```npm install browser-sync --save-dev```
         
 3. Install [cssnano](https://www.npmjs.com/package/cssnano)
 
-        npm install cssnano --save-dev
+```npm install cssnano --save-dev```
         
 4. Install [del](https://www.npmjs.com/package/del)
 
-        npm install del --save-dev
+```npm install del --save-dev```
         
 5. Install [gulp-cache](https://www.npmjs.com/package/gulp-cache)
 
-        npm install gulp-cache --save-dev
+```npm install gulp-cache --save-dev```
         
 6. Install [gulp-if](https://www.npmjs.com/package/gulp-if)
 
-        npm install gulp-if --save-dev
+```npm install gulp-if --save-dev```
         
 7. Install [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
 
-        npm install gulp-imagemin --save-dev
+```npm install gulp-imagemin --save-dev```
         
 8. Install [gulp-postcss](https://www.npmjs.com/package/gulp-postcss)
 
-        npm install gulp-postcss --save-dev
+```npm install gulp-postcss --save-dev```
         
 9. Install [gulp-sass](https://www.npmjs.com/package/gulp-sass)
 
-        npm install gulp-sass --save-dev
+```npm install gulp-sass --save-dev```
         
 10. Install [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps)
 
-        npm install gulp-sourcemaps --save-dev
+```npm install gulp-sourcemaps --save-dev```
         
 11. Install [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)
 
-        npm install gulp-uglify --save-dev
+```npm install gulp-uglify --save-dev```
         
 12. Install [gulp-useref](https://www.npmjs.com/package/gulp-useref)
 
-           npm install gulp-useref --save-dev
+```npm install gulp-useref --save-dev```
+
+13. Install [run-sequence](https://www.npmjs.com/package/run-sequence)
+
+```npm install run-sequence --save-dev
 
 
 ## Start Your Web Development Environment
