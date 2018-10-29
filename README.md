@@ -110,7 +110,7 @@ Or you can *install them individually*:
 
 13. Install [run-sequence](https://www.npmjs.com/package/run-sequence)
 
-```npm install run-sequence --save-dev
+```npm install run-sequence --save-dev```
 
 
 ## Start Your Web Development Environment
